@@ -1,6 +1,6 @@
 ## STATS
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adriru20&theme=dark&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=adriru20&hide_title=true&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=4&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=adriru20&hide_title=true&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=4&theme=dark)
 
 <!--
 **adriru20/adriru20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
