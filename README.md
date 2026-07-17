@@ -1,5 +1,7 @@
 ## STATS
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adriru20&theme=dark&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=adriru20)](https://github.com/stats-organization/github-stats-extended)
+
 <!--
 **adriru20/adriru20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
